@@ -47,10 +47,15 @@
 
 
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shayan21345293&show_icons=true&theme=default" width="400"/>
-</p>
+## 📊 GitHub Matrix
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shayan21345293&theme=matrix&hide_border=true&include_all_commits=true&count_private=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shayan21345293&theme=matrix&hide_border=true" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Shayan21345293&theme=matrix&no-frame=true&no-bg=true&margin-w=4" />
+</div>
 
 ---
 
