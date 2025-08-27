@@ -1,0 +1,25 @@
+<svg width="600" height="200" viewBox="0 0 600 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="200" fill="#282c34"/>
+  <text x="50%" y="40%" dominant-baseline="middle" text-anchor="middle" font-size="40" fill="#61dafb" font-family="Verdana">
+    Welcome to Shayan's Profile!
+    <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/>
+  </text>
+  <g>
+    <circle cx="180" cy="150" r="30" fill="#61dafb">
+      <animate attributeName="r" values="30;40;30" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <rect x="150" y="120" width="60" height="10" fill="#fff">
+      <animate attributeName="x" values="150;210;150" dur="2s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="420" cy="150" r="30" fill="#ffb347">
+      <animate attributeName="r" values="30;40;30" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <rect x="390" y="120" width="60" height="10" fill="#fff">
+      <animate attributeName="x" values="390;450;390" dur="2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <text x="50%" y="80%" dominant-baseline="middle" text-anchor="middle" font-size="20" fill="#fff" font-family="Verdana">
+    Let's build something amazing together!
+    <animate attributeName="opacity" values="1;0.2;1" dur="3s" repeatCount="indefinite"/>
+  </text>
+</svg>
