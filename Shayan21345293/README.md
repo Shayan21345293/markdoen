@@ -1,11 +1,12 @@
-# Hi there 👋
+# Welcome to My Digital Universe �
 
+<div align="center">
+  <img src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" width="100%" alt="Matrix Animation"/>
+</div>
 
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shayan21345293/Shayan21345293/main/assets/banner.svg" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Matrix&size=32&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+Profile;Full+Stack+Developer;Coding+the+Future;Building+Digital+Solutions" alt="Typing SVG" />
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Shayan21345293/Shayan21345293/main/assets/animated-coding.svg" width="600"/>
