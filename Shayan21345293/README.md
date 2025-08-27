@@ -1,4 +1,64 @@
-# Welcome to My Digital Universe �
+# ⚡ The Matrix Has You ⚡
+
+<div ## 📟 System Info
+
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="120" style="border-radius:50px; border: 2px solid #00FF00;" alt="Operator Avatar"/>
+</div>
+
+<table align="center">
+<tr>
+<td>
+
+```csharp
+namespace Matrix
+{
+    public class Operator
+    {
+        public string Name = "Shayan";
+        public string Role = "Digital Architect";
+        public string Location = "The Matrix";
+        public string[] Status = 
+        {
+            "⚡ Debugging Reality",
+            "🌐 Mastering Web3",
+            "🤖 Training AI",
+            "🔐 Building Secure Systems"
+        };
+        public string[] Arsenal = 
+        {
+            "Python", "JavaScript",
+            "React", "Node.js",
+            "Cloud", "Blockchain"
+        };
+    }
+}
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Signal-00FF00?style=for-the-badge&logo=signal&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/Shayan21345293">
+    <img src="https://img.shields.io/badge/Terminal-00FF00?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  </a>
+</div>enter">
+  <img src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" width="100%" alt="Matrix Animation"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E+Initialize+System...;%3E+Loading+Profile...;%3E+Access+Granted...;%3E+Welcome+to+The+Matrix" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/Shayan21345293">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:184d47,100:96e072&height=200&section=header&text=System%20Online&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Debugging%20the%20Matrix&descAlignY=60&descSize=15"/>
+  </a>
+</div> to My Digital Universe �
 
 <div align="center">
   <img src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" width="100%" alt="Matrix Animation"/>
@@ -47,14 +107,27 @@
 
 
 
-## 📊 GitHub Matrix
+## 📊 System Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shayan21345293&theme=matrix&hide_border=true&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shayan21345293&theme=matrix&hide_border=true" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Shayan21345293&theme=matrix&no-frame=true&no-bg=true&margin-w=4" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Shayan21345293&theme=matrix&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=00FF00&title_color=00FF00&text_color=00FF00&bg_color=0D1117" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shayan21345293&theme=matrix&hide_border=true&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&background=0D1117" />
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Shayan21345293&theme=matrix&no-frame=true&no-bg=false&margin-w=15&column=7" />
+  
+  <img src="https://github.com/Shayan21345293/Shayan21345293/blob/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<!-- Matrix-style Activity Graph -->
+<img src="https://activity-graph.herokuapp.com/graph?username=Shayan21345293&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true" />
 </div>
 
 ---
